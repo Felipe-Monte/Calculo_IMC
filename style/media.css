@@ -1,8 +1,8 @@
 
 @media (max-width: 400px) {
-
+  
   .container {
-    height: 90vh;
+    height: 70vh;
     width: 100%;
     display: flex;
     justify-content: center;
