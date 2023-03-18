@@ -2,7 +2,7 @@
 @media (max-width: 400px) {
 
   .container {
-    height: 100vh;
+    height: 90vh;
     width: 100%;
     display: flex;
     justify-content: center;
@@ -14,7 +14,7 @@
     padding: 1rem;
     max-width: 42.6rem;
     width: 90%;
-    height: 52%;
+    height: 350px;
     margin-inline: auto;
   
     background-color: white;
