@@ -160,10 +160,3 @@ form button {
   margin-top: 3.2rem;
 }
 
-@media (max-width: 420px) {
-  
-  .card {
-    padding: 1rem;
-  }
-  
-}
